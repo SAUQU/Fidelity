@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fidelity</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="anime_name">Anime Name-:%s</string>
+    <string name="airing_status">Airing-:%s</string>
+    <string name="start_date">Start Date-:%s</string>
+    <string name="no_of_episodes">Episodes-:%s</string>
+    <string name="anime_details">Synopsis-:%s</string>
+    <string name="anime_path_image">Path image</string>
+    <string name="loading_data">Loading data..</string>
+    <string name="search">Search</string>
+    <string name="anime_name_hint">Anime Name</string>
+</resources>
